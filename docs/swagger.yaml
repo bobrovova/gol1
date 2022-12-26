@@ -1,0 +1,9 @@
+basePath: /
+host: localhost:8881
+info:
+  contact: {}
+  description: API Server for getting current weather
+  title: Weather Api
+  version: "1.0"
+paths: {}
+swagger: "2.0"

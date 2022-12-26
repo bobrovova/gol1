@@ -1,0 +1,12 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "API Server for getting current weather",
+        "title": "Weather Api",
+        "contact": {},
+        "version": "1.0"
+    },
+    "host": "localhost:8881",
+    "basePath": "/",
+    "paths": {}
+}
